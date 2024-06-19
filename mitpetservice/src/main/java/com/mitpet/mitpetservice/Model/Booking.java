@@ -1,5 +1,6 @@
 package com.mitpet.mitpetservice.Model;
 
+import com.mitpet.mitpetservice.Model.Enums.TimeBooking;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
